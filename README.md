@@ -1,6 +1,6 @@
 # Nice to meet you! My name is Ashley 😀
 
-- 📘 I am a Junior Student-Athlete at Chaminade University of Honolulu
+- 📘 I am a third-year Student-Athlete at Chaminade University of Honolulu
 - 💻 Dual majoring in Data Science, Analytics, and Visualization, & Computer Science and minoring Mathematics, certification in Environmental Analytics 
 - 🏀 Member of the Chaminade Women's Basketball Team
 - 🎓 May 2026 intented graduation  
